@@ -14,8 +14,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone o projeto e acesse a pasta do mesmo.
 
+```
 $ git clone https://github.com/gugavillar/trilha-react-desafio-01
 $ cd trilha-react-desafio-01
+```
 
 Para iniciá-lo, siga os passos abaixo:
 
@@ -30,3 +32,7 @@ $ yarn dev
 O app estará disponível no seu browser pelo endereço http://localhost:8080.
 
 ## 💻 Projeto
+
+O to.do list é o projeto pra quem quer aprender React do zero, dentro dele temos a criação de componentes, o uso de estados do React.
+
+Esse foi um projeto realizado para cumprir o desafio 01 da trilha React do Ignite da Rocketseat.
