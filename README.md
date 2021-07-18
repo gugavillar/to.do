@@ -35,4 +35,16 @@ O app estará disponível no seu browser pelo endereço http://localhost:8080.
 
 O to.do list é o projeto pra quem quer aprender React do zero, dentro dele temos a criação de componentes, o uso de estados do React.
 
+As funcionalidades do projeto são:
+
+-  Adicionar novas tarefas;
+-  Marcar tarefas concluídas;
+-  Deletar tarefas.
+
+Esse projeto tem como objetivo consolidar os conhecimentos sobre:
+
+-  Componentes;
+-  Estados;
+-  Propriedades
+
 Esse foi um projeto realizado para cumprir o desafio 01 da trilha React do Ignite da Rocketseat.
