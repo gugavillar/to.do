@@ -15,8 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```
-$ git clone https://github.com/gugavillar/trilha-react-desafio-01
-$ cd trilha-react-desafio-01
+$ git clone https://github.com/gugavillar/to.do
+$ cd to.do
 ```
 
 Para iniciá-lo, siga os passos abaixo:
