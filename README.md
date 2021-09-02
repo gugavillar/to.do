@@ -6,9 +6,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--  React
--  TypeScript
--  SASS
+- React
+- TypeScript
+- SASS
 
 ## Como executar
 
@@ -37,14 +37,15 @@ O to.do list é o projeto pra quem quer aprender React do zero, dentro dele temo
 
 As funcionalidades do projeto são:
 
--  Adicionar novas tarefas;
--  Marcar tarefas concluídas;
--  Deletar tarefas.
+- Adicionar novas tarefas;
+- Marcar tarefas concluídas;
+- Deletar tarefas.
+- Editar nome das tarefas.
 
 Esse projeto tem como objetivo consolidar os conhecimentos sobre:
 
--  Componentes;
--  Estados;
--  Propriedades
+- Componentes;
+- Estados;
+- Propriedades
 
 Esse foi um projeto realizado para cumprir o desafio 01 da trilha React do Ignite da Rocketseat.
